@@ -58,7 +58,7 @@ A empresa pode investigar quais produtos, perfis de consumidores e formas de pag
 
 ## Dashboard
 
-![Dashboard de vendas](images/dashboard.png)
+![Dashboard de vendas](images/Dashboard.png)
 
 ## Limitações da análise
 
